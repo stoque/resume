@@ -43,6 +43,4 @@ Desenvolvimento do front-end dos sistemas web de vendas do grupo, utilizando có
 Criação de rotinas para integração dos sistemas web com ERP utilizando PHP, MYSQL e SQL ORACLE
 
 ### Técnico de Suporte - CVFI - 01/2012 - 09/2012
-Suporte de campo.
-Instalação e manutenção de redes.
-Desenvolvimento de website institucional.
+Suporte de campo, instalação e manutenção de redes. desenvolvimento de website institucional.
