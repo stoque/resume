@@ -1,10 +1,10 @@
 # Lucas Stoque Lima
 
-** Localização: ** Rio de Janeiro - RJ
+**Localização:** Rio de Janeiro - RJ
 
-** Blog: ** [lucastoque.com](https://lucastoque.com)
+**Blog:** [lucastoque.com](https://lucastoque.com)
 
-** E-mail: ** [stoque@live.com](mailto:stoque@live.com)
+**E-mail:** [stoque@live.com](mailto:stoque@live.com)
 
 
 
